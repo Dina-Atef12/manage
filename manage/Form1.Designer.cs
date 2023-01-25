@@ -124,7 +124,7 @@
             this.label4.AutoSize = true;
             this.label4.Font = new System.Drawing.Font("Segoe UI Semibold", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.label4.ForeColor = System.Drawing.Color.Teal;
-            this.label4.Location = new System.Drawing.Point(512, 369);
+            this.label4.Location = new System.Drawing.Point(510, 369);
             this.label4.Name = "label4";
             this.label4.Size = new System.Drawing.Size(61, 28);
             this.label4.TabIndex = 9;
