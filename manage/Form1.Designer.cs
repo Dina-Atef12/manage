@@ -102,7 +102,7 @@
             // 
             // textBox2
             // 
-            this.textBox2.Location = new System.Drawing.Point(491, 281);
+            this.textBox2.Location = new System.Drawing.Point(410, 281);
             this.textBox2.Name = "textBox2";
             this.textBox2.Size = new System.Drawing.Size(277, 27);
             this.textBox2.TabIndex = 7;
