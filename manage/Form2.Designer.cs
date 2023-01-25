@@ -115,10 +115,11 @@
             // 
             // textBox6
             // 
-            this.textBox6.Location = new System.Drawing.Point(80, 606);
+            this.textBox6.Location = new System.Drawing.Point(80, 621);
             this.textBox6.Name = "textBox6";
             this.textBox6.Size = new System.Drawing.Size(277, 34);
             this.textBox6.TabIndex = 12;
+            this.textBox6.TextChanged += new System.EventHandler(this.textBox6_TextChanged);
             // 
             // label4
             // 
