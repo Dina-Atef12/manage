@@ -20,7 +20,7 @@ namespace EmployeeMgmt1
             Con = new Functions();
             ShowDepartments();
         }
-        private void ShowDepartments()
+        private void ShowDepartments() 
         {
             string Query = "Select * from DepartmentTb1";
             DepList.DataSource = Con.GetData(Query);
@@ -401,6 +401,7 @@ namespace EmployeeMgmt1
         private Panel panel1;
 
         public object DepNameTb { get; private set; }
+        public object DepList { get; private set; }
 
         private void Label2_Click(object sender, EventArgs e)
         {
