@@ -312,7 +312,7 @@ namespace manage
             this.label4.Name = "label4";
             this.label4.Size = new System.Drawing.Size(174, 28);
             this.label4.TabIndex = 104;
-            this.label4.Text = "Employee Gender";
+            this.label4.Text = "Employee Gender"; 
             // 
             // textBox6
             // 
