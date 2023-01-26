@@ -268,7 +268,7 @@ namespace manage
             this.label8.Name = "label8";
             this.label8.Size = new System.Drawing.Size(211, 28);
             this.label8.TabIndex = 108;
-            this.label8.Text = "Employee Daily Salary";
+            this.label8.Text = "Employee Daily Salary"; 
             // 
             // label7
             // 
