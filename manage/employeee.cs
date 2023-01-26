@@ -401,7 +401,7 @@ namespace manage
             this.label9.Name = "label9";
             this.label9.Size = new System.Drawing.Size(77, 28);
             this.label9.TabIndex = 122;
-            this.label9.Text = "Logout";
+            this.label9.Text = "Logout"; 
             // 
             // label10 
             // 
