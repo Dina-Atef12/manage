@@ -272,7 +272,7 @@ namespace EmployeeMgmt1
             this.AddBtn.Text = "Add";
             this.AddBtn.UseVisualStyleBackColor = false;
             // 
-            // pictureBox1
+            // pictureBox1 
             // 
             this.pictureBox1.Image = ((System.Drawing.Image)(resources.GetObject(" pictureBox1.Image")));
             this.pictureBox1.Location = new System.Drawing.Point(45, 149);
