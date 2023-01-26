@@ -12,7 +12,7 @@ namespace manage
 {
     public partial class Deplist : Form
     {
-        Functions con;
+        Functions con; 
 
         public static DataTable DataSource { get; private set; }
         public object Con { get; private set; }
