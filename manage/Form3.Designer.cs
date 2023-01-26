@@ -285,7 +285,7 @@
         private Label label3;
         private Label label4;
         private TextBox DepNameTb;
-        private Button AddBtn;
+        private Button AddBtn; 
         private Button EditBtn;
         private PictureBox pictureBox2;
         private PictureBox pictureBox3;
