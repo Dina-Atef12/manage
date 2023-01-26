@@ -320,7 +320,7 @@ namespace manage
             this.textBox6.Name = "textBox6";
             this.textBox6.Size = new System.Drawing.Size(277, 27);
             this.textBox6.TabIndex = 103;
-            // 
+            //  
             // textBox1
             // 
             this.textBox1.Location = new System.Drawing.Point(32, 180);
