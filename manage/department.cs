@@ -45,7 +45,7 @@ namespace EmployeeMgmt1
                     DepNameTb.Text = "";
                 }
             }
-            catch (Exception Ex)
+            catch (Exception Ex) 
             {
                 MessageBox.Show(Ex.Message);
             }
