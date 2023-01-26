@@ -342,7 +342,7 @@ namespace EmployeeMgmt1
             this.panel1.Name = "panel1";
             this.panel1.Size = new System.Drawing.Size(1745, 125);
             this.panel1.TabIndex = 86;
-            // 
+            //  
             // Departments
             // 
             this.ClientSize = new System.Drawing.Size(1745, 908);
@@ -395,7 +395,7 @@ namespace EmployeeMgmt1
         private Button FditBtn;
         private Panel panel1;
 
-        private void label2_Click(object sender, EventArgs e)
+        private void Label2_Click(object sender, EventArgs e)
         {
 
         }
