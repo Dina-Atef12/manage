@@ -382,7 +382,7 @@ namespace manage
             this.label1.TabIndex = 0;
             this.label1.Text = " Employee Management System Version 1.0";
             // 
-            // pictureBox5
+            // pictureBox5 
             // 
             this.pictureBox5.Image = ((System.Drawing.Image)(resources.GetObject("pictureBox5.Image")));
             this.pictureBox5.Location = new System.Drawing.Point(1139, 84);
