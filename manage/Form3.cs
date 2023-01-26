@@ -50,7 +50,7 @@ namespace manage
                 {
                     MessageBox.Show("Missing Data!!!");
                 }
-                else
+                else 
                 {
                     string Dep = DepNameTb.Text;
                     string Query = "insert into DepartmentTbl values('{0}')";
