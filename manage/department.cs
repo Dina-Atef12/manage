@@ -248,7 +248,7 @@ namespace EmployeeMgmt1
             this.pictureBox4.TabIndex = 100;
             this.pictureBox4.TabStop = false;
             // 
-            // label1
+            // label1 
             // 
             this.label1.AutoSize = true;
             this.label1.BackColor = System.Drawing.Color.Teal;
