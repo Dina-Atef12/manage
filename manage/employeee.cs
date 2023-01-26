@@ -479,7 +479,7 @@ namespace manage
             this.button2.Text = "Update";
             this.button2.UseVisualStyleBackColor = false;
             // 
-            // button1
+            // button1 
             // 
             this.button1.BackColor = System.Drawing.Color.Teal;
             this.button1.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
