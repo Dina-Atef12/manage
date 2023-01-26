@@ -10,9 +10,9 @@ using System.Windows.Forms;
 
 namespace manage
 {
-    public partial class department : Form
+    public partial class Deplist : Form
     {
-        public department()
+        public Deplist()
         {
             InitializeComponent();
         }
