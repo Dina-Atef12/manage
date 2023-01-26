@@ -5,5 +5,10 @@
         public Employees()
         {
         }
+
+        internal void Show()
+        {
+            throw new NotImplementedException();
+        }
     }
 }

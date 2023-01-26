@@ -93,7 +93,7 @@ namespace EmployeeMgmt1
         {
             try
             {
-                if (DepNameTb.Text == "")
+                if (DepNameTb.Text == "") 
                 {
                     MessageBox.Show("missing data!!!");
                 }
@@ -105,7 +105,7 @@ namespace EmployeeMgmt1
                     Con.SetData(Query);
                     ShowDepartments();
                     MessageBox.Show("Department Deleted!!!");
-                    DepNameTb.Text = "";
+                    NewMethod();
                 }
             }
             catch (Exception Ex)
@@ -114,9 +114,14 @@ namespace EmployeeMgmt1
             }
         }
 
+        private void NewMethod()
+        {
+            DepNameTb.Text = "";
+        }
+
         private void EmpLbl_Click(object sender, EventArgs e)
         {
-            Employees obj = new Employees();
+            Employeee obj = new Employeee();
             obj.Show();
             this.Hide();
         }
@@ -394,6 +399,8 @@ namespace EmployeeMgmt1
         private BackgroundWorker backgroundWorker1;
         private Button FditBtn;
         private Panel panel1;
+
+        public object DepNameTb { get; private set; }
 
         private void Label2_Click(object sender, EventArgs e)
         {
