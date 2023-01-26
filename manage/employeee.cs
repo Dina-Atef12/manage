@@ -392,7 +392,7 @@ namespace manage
             this.pictureBox5.TabIndex = 123;
             this.pictureBox5.TabStop = false;
             // 
-            // label9
+            // label9 
             // 
             this.label9.AutoSize = true;
             this.label9.Font = new System.Drawing.Font("Segoe UI Semibold", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
