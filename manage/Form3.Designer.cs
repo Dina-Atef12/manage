@@ -278,7 +278,7 @@
 
         #endregion
 
-        private Panel panel1;
+        private Panel panel1; 
         private Label label1;
         private Label label2;
         private PictureBox pictureBox1;
