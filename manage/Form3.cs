@@ -57,7 +57,7 @@ namespace manage
                     Query = string.Format(Query, DepNameTb.Text);
                     Con.SetData (Query);
                     ShowDepartments();
-                    MessageBox.Show("Department Added!!!");
+                    MessageBox.Show("Department Added!!!"); 
                     DepNameTb.Text = "";
 
                 }
