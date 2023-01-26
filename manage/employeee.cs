@@ -361,7 +361,7 @@ namespace manage
             this.pictureBox1.TabIndex = 110;
             this.pictureBox1.TabStop = false;
             // 
-            // panel1
+            // panel1 
             // 
             this.panel1.BackColor = System.Drawing.Color.Teal;
             this.panel1.Controls.Add(this.label1);
