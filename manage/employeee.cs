@@ -339,7 +339,7 @@ namespace manage
             this.label3.TabIndex = 101;
             this.label3.Text = "Employee Name";
             // 
-            // label2
+            // label2 
             // 
             this.label2.AutoSize = true;
             this.label2.Font = new System.Drawing.Font("Segoe UI Semibold", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
