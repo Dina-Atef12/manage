@@ -260,7 +260,7 @@ namespace EmployeeMgmt1
             this.label1.TabIndex = 1;
             this.label1.Text = "Employee Management System Version 1.0 ";
             // 
-            // AddBtn
+            // AddBtn 
             // 
             this.AddBtn.BackColor = System.Drawing.Color.Teal;
             this.AddBtn.Font = new System.Drawing.Font("Segoe UI", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
