@@ -489,7 +489,7 @@ namespace manage
             this.button1.Name = "button1";
             this.button1.Size = new System.Drawing.Size(102, 37);
             this.button1.TabIndex = 114;
-            this.button1.Text = "Add";
+            this.button1.Text = "Add"; 
             this.button1.UseVisualStyleBackColor = false;
             // 
             // dateTimePicker2 
