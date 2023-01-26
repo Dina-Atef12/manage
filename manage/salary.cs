@@ -10,16 +10,11 @@ using System.Windows.Forms;
 
 namespace manage
 {
-    public partial class department : Form
+    public partial class salary : Form
     {
-        public department()
+        public salary()
         {
             InitializeComponent();
-        }
-
-        private void label1_Click(object sender, EventArgs e)
-        {
-
         }
     }
 }
