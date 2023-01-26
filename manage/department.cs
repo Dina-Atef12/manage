@@ -238,7 +238,7 @@ namespace EmployeeMgmt1
             this.label4.TabIndex = 94;
             this.label4.Text = "Departments";
             // 
-            // pictureBox4
+            // pictureBox4 
             // 
             this.pictureBox4.Image = ((System.Drawing.Image)(resources.GetObject("pictureBox4.Image")));
             this.pictureBox4.Location = new System.Drawing.Point(966, 131);
