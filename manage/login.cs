@@ -8,13 +8,18 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace EmployeeMgmt1
+namespace manage
 {
     public partial class login : Form
     {
         public login()
         {
             InitializeComponent();
+        }
+
+        public login(Label label4)
+        {
+            this.label4 = label4;
         }
 
         private void pictureBox1_Click(object sender, EventArgs e)
@@ -201,7 +206,7 @@ namespace EmployeeMgmt1
             this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.None;
             this.Name = "login";
             this.Text = "login";
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).EndInit(); 
             this.ResumeLayout(false);
             this.PerformLayout();
 
