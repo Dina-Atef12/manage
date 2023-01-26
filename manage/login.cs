@@ -132,7 +132,7 @@ namespace manage
             // 
             // textBox1
             // 
-            this.textBox1.Location = new System.Drawing.Point(427, 217);
+            this.textBox1.Location = new Point(427, 217);
             this.textBox1.Name = "textBox1";
             this.textBox1.Size = new System.Drawing.Size(277, 27);
             this.textBox1.TabIndex = 24;
@@ -146,7 +146,7 @@ namespace manage
             this.label3.Name = "label3";
             this.label3.Size = new System.Drawing.Size(97, 28);
             this.label3.TabIndex = 23;
-            this.label3.Text = "Password";
+            this.label3.Text = "Password"; 
             // 
             // label2
             // 
