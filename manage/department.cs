@@ -307,7 +307,7 @@ namespace EmployeeMgmt1
             this.label3.Size = new System.Drawing.Size(174, 28);
             this.label3.TabIndex = 88;
             this.label3.Text = "Department Name";
-            // 
+            //  
             // label2 
             // 
             this.label2.AutoSize = true;
