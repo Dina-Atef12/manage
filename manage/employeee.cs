@@ -466,7 +466,7 @@ namespace manage
             this.pictureBox2.TabIndex = 116;
             this.pictureBox2.TabStop = false;
             // 
-            // button2
+            // button2 
             // 
             this.button2.BackColor = System.Drawing.Color.MediumTurquoise;
             this.button2.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
