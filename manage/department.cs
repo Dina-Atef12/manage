@@ -164,7 +164,7 @@ namespace EmployeeMgmt1
             this.panel1.SuspendLayout();
             this.SuspendLayout();
             // 
-            // pictureBox6
+            // pictureBox6 
             // 
             this.pictureBox6.Image = ((System.Drawing.Image)(resources.GetObject("pictureBox6.Image")));
             this.pictureBox6.Location = new System.Drawing.Point(1155, 131);
