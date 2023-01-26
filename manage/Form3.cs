@@ -42,7 +42,7 @@ namespace manage
             string Query = " Select * from DepartmentTbl";
             Deplist.DataSource = con.GetData(Query);
         }
-        private void AddBtn_Click(object sender, EventArgs e)
+        private void AddBtn_Click(object sender, EventArgs e) 
         {
             try
             {
