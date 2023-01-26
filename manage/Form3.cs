@@ -46,7 +46,7 @@ namespace manage
         {
             try
             {
-                if(DepNameTb.Text == "")
+                if(DepNameTb.Text == "") 
                 {
                     MessageBox.Show("Missing Data!!!");
                 }
