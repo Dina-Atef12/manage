@@ -288,7 +288,7 @@
         private Button AddBtn; 
         private Button EditBtn;
         private PictureBox pictureBox2;
-        private PictureBox pictureBox3;
+        private PictureBox pictureBox3; 
         private Label label5; 
         private Label label6;
         private PictureBox pictureBox4;
