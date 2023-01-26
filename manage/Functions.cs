@@ -36,7 +36,7 @@ namespace manage
         public int SetData(string Query)
         {
             int cnt = 0;
-            if(Con.State == ConnectionState .Closed)
+            if(Con.State == ConnectionState .Closed) 
             {
                 Con.Open ();
             }
