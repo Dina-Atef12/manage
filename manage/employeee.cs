@@ -476,7 +476,7 @@ namespace manage
             this.button2.Name = "button2";
             this.button2.Size = new System.Drawing.Size(102, 37);
             this.button2.TabIndex = 115;
-            this.button2.Text = "Update";
+            this.button2.Text = "Update"; 
             this.button2.UseVisualStyleBackColor = false;
             // 
             // button1 
