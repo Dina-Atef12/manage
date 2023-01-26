@@ -320,7 +320,7 @@ namespace EmployeeMgmt1
             this.label2.Text = "Departement  Management";
             this.label2.Click += new System.EventHandler(this.label2_Click);
             // 
-            // FditBtn
+            // FditBtn 
             // 
             this.FditBtn.BackColor = System.Drawing.Color.PaleTurquoise;
             this.FditBtn.FlatAppearance.BorderSize = 0;
