@@ -194,7 +194,7 @@ namespace EmployeeMgmt1
             this.label6.Name = "label6";
             this.label6.Size = new System.Drawing.Size(75, 28);
             this.label6.TabIndex = 98;
-            this.label6.Text = "Logout";
+            this.label6.Text = "Logout"; 
             // 
             // pictureBox3 
             // 
