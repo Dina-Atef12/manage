@@ -12,19 +12,23 @@ namespace manage
 {
     public partial class Deplist : Form
     {
-        Functions con; 
+        Functions con;
 
+#pragma warning disable CS8618 // Non-nullable field must contain a non-null value when exiting constructor. Consider declaring as nullable.
         public static DataTable DataSource { get; private set; }
+#pragma warning restore CS8618 // Non-nullable field must contain a non-null value when exiting constructor. Consider declaring as nullable.
         public object Con { get; private set; }
 
+#pragma warning disable CS8618 // Non-nullable field must contain a non-null value when exiting constructor. Consider declaring as nullable.
         public Deplist()
+#pragma warning restore CS8618 // Non-nullable field must contain a non-null value when exiting constructor. Consider declaring as nullable.
         {
             InitializeComponent();
             con = new Functions();
             ShowDepartments ();
         }
 
-        private void ShowDepartments()
+        private void ShowDepartments() 
         {
             throw new NotImplementedException();
         }
