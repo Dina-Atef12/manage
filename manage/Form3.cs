@@ -30,7 +30,7 @@ namespace manage
 
         private void ShowDepartments() 
         {
-            throw new NotImplementedException();
+            throw new NotImplementedException(); 
         }
 
         private void label1_Click(object sender, EventArgs e)
