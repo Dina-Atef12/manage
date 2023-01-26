@@ -492,7 +492,7 @@ namespace manage
             this.button1.Text = "Add";
             this.button1.UseVisualStyleBackColor = false;
             // 
-            // dateTimePicker2
+            // dateTimePicker2 
             // 
             this.dateTimePicker2.Location = new System.Drawing.Point(32, 456);
             this.dateTimePicker2.Name = "dateTimePicker2";
