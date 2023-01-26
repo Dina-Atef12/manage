@@ -412,7 +412,7 @@ namespace manage
             this.label10.Name = "label10";
             this.label10.Size = new System.Drawing.Size(66, 28);
             this.label10.TabIndex = 121;
-            this.label10.Text = "Salary";
+            this.label10.Text = "Salary"; 
             // 
             // pictureBox4 
             // 
