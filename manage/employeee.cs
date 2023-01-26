@@ -279,7 +279,7 @@ namespace manage
             this.label7.Name = "label7";
             this.label7.Size = new System.Drawing.Size(97, 28);
             this.label7.TabIndex = 107;
-            this.label7.Text = "Join Date";
+            this.label7.Text = "Join Date"; 
             // 
             // label6
             // 
