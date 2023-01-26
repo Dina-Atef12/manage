@@ -403,7 +403,7 @@ namespace manage
             this.label9.TabIndex = 122;
             this.label9.Text = "Logout";
             // 
-            // label10
+            // label10 
             // 
             this.label10.AutoSize = true;
             this.label10.Font = new System.Drawing.Font("Segoe UI Semibold", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
