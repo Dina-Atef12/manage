@@ -301,7 +301,7 @@ namespace manage
             this.label5.Name = "label5";
             this.label5.Size = new System.Drawing.Size(217, 28);
             this.label5.TabIndex = 105;
-            this.label5.Text = "Empolyee Department";
+            this.label5.Text = "Empolyee Department"; 
             // 
             // label4
             // 
