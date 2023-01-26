@@ -414,7 +414,7 @@ namespace manage
             this.label10.TabIndex = 121;
             this.label10.Text = "Salary";
             // 
-            // pictureBox4
+            // pictureBox4 
             // 
             this.pictureBox4.Image = ((System.Drawing.Image)(resources.GetObject("pictureBox4.Image")));
             this.pictureBox4.Location = new System.Drawing.Point(920, 84);
