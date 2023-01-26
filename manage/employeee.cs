@@ -456,7 +456,7 @@ namespace manage
             this.pictureBox3.TabIndex = 117;
             this.pictureBox3.TabStop = false;
             // 
-            // pictureBox2
+            // pictureBox2 
             // 
             this.pictureBox2.Image = ((System.Drawing.Image)(resources.GetObject("pictureBox2.Image")));
             this.pictureBox2.Location = new System.Drawing.Point(386, 84);
