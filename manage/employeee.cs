@@ -433,7 +433,7 @@ namespace manage
             this.label11.Name = "label11";
             this.label11.Size = new System.Drawing.Size(101, 28);
             this.label11.TabIndex = 119;
-            this.label11.Text = "Employee";
+            this.label11.Text = "Employee"; 
             // 
             // label12 
             // 
