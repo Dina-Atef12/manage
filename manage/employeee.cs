@@ -372,7 +372,7 @@ namespace manage
             this.panel1.TabIndex = 98;
             // 
             // label1
-            // 
+            //  
             this.label1.AutoSize = true;
             this.label1.Font = new System.Drawing.Font("Segoe UI Semibold", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.label1.ForeColor = System.Drawing.Color.White;
