@@ -313,7 +313,7 @@ namespace manage
             this.label4.Size = new System.Drawing.Size(174, 28);
             this.label4.TabIndex = 104;
             this.label4.Text = "Employee Gender"; 
-            // 
+            //  
             // textBox6
             // 
             this.textBox6.Location = new System.Drawing.Point(32, 524);
