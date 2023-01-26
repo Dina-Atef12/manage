@@ -31,7 +31,7 @@ namespace manage
             dt = new DataTable();
             sda = new SqlDataAdapter (Query, Constr);
             sda.Fill (dt);
-            return dt;
+            return dt; 
         } 
         public int SetData(string Query)
         {
