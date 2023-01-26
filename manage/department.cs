@@ -196,7 +196,7 @@ namespace EmployeeMgmt1
             this.label6.TabIndex = 98;
             this.label6.Text = "Logout";
             // 
-            // pictureBox3
+            // pictureBox3 
             // 
             this.pictureBox3.Image = ((System.Drawing.Image)(resources.GetObject("pictureBox3.Image")));
             this.pictureBox3.Location = new System.Drawing.Point(747, 131);
