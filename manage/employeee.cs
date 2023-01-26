@@ -290,7 +290,7 @@ namespace manage
             this.label6.Name = "label6";
             this.label6.Size = new System.Drawing.Size(132, 28);
             this.label6.TabIndex = 106;
-            this.label6.Text = "Date Of Birth";
+            this.label6.Text = "Date Of Birth"; 
             // 
             // label5
             // 
