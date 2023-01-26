@@ -499,7 +499,7 @@ namespace manage
             this.dateTimePicker2.Size = new System.Drawing.Size(277, 27);
             this.dateTimePicker2.TabIndex = 113;
             // 
-            // dateTimePicker1
+            // dateTimePicker1 
             // 
             this.dateTimePicker1.Location = new System.Drawing.Point(32, 388);
             this.dateTimePicker1.Name = "dateTimePicker1";
