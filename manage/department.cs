@@ -185,7 +185,7 @@ namespace EmployeeMgmt1
             this.label8.TabIndex = 99;
             this.label8.Text = "Salary";
             // 
-            // label6
+            // label6 
             // 
             this.label6.AutoSize = true;
             this.label6.Font = new System.Drawing.Font("Segoe UI", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
