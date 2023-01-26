@@ -15,7 +15,9 @@ namespace manage
         private DataTable dt;
         private SqlDataAdapter sda;
         private string ConStr;
+#pragma warning disable CS8618 // Non-nullable field must contain a non-null value when exiting constructor. Consider declaring as nullable.
         public Functions()
+#pragma warning restore CS8618 // Non-nullable field must contain a non-null value when exiting constructor. Consider declaring as nullable.
         {
             ConStr = @"Data Source=(LocalDB)\MSSQLLocalDB;AttachDbFilename=C:\Users\AGYAL\OneDrive\Documents\EmpDb.mdf;Integrated Security=True;Connect Timeout=30"
             Con = new SqlConnection (ConStr);
@@ -24,7 +26,7 @@ namespace manage
 
         }
 
-        public object Constr { get; private set; }
+        public object Constr { get; private set; } 
 
         public DataTable GetData (string Query)
         {
