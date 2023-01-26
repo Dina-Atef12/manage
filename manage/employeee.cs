@@ -351,7 +351,7 @@ namespace manage
             this.label2.Text = "Manage Employees";
             this.label2.Click += new System.EventHandler(this.label2_Click);
             // 
-            // pictureBox1
+            // pictureBox1 
             // 
             this.pictureBox1.Image = ((System.Drawing.Image)(resources.GetObject("pictureBox1.Image")));
             this.pictureBox1.Location = new System.Drawing.Point(39, 81);
