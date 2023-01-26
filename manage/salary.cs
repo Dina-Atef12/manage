@@ -16,5 +16,10 @@ namespace manage
         {
             InitializeComponent();
         }
+
+        private void dateTimePicker2_ValueChanged(object sender, EventArgs e)
+        {
+
+        }
     }
 }
