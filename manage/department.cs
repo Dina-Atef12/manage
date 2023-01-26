@@ -10,16 +10,11 @@ using System.Windows.Forms;
 
 namespace manage
 {
-    public partial class salary : Form
+    public partial class department : Form
     {
-        public salary()
+        public department()
         {
             InitializeComponent();
-        }
-
-        private void dateTimePicker2_ValueChanged(object sender, EventArgs e)
-        {
-
         }
     }
 }
