@@ -38,7 +38,7 @@ namespace EmployeeMgmt1
             {
                 if (UNameTb.Text == "Admin" && PasswordTb.Text == "Password")
                 {
-                    Employees Obj = new Employees();
+                    Employees Obj = new Employees();  
                     Obj.Show();
                     this.Hide();
                 }
