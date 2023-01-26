@@ -227,7 +227,7 @@ namespace EmployeeMgmt1
             this.pictureBox2.TabIndex = 95;
             this.pictureBox2.TabStop = false;
             // 
-            // label4
+            // label4 
             // 
             this.label4.AutoSize = true;
             this.label4.Font = new System.Drawing.Font("Segoe UI", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
