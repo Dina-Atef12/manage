@@ -1,4 +1,6 @@
-﻿namespace manage
+﻿using System.Data;
+
+namespace manage
 {
     internal class SqlConnection
     {
@@ -8,6 +10,8 @@
         {
             this.conStr = conStr;
         }
+
+        public ConnectionState State { get; internal set; }
 
         internal void Open()
         {
