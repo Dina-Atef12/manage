@@ -308,7 +308,7 @@ namespace EmployeeMgmt1
             this.label3.TabIndex = 88;
             this.label3.Text = "Department Name";
             // 
-            // label2
+            // label2 
             // 
             this.label2.AutoSize = true;
             this.label2.Font = new System.Drawing.Font("Segoe UI", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
@@ -318,7 +318,7 @@ namespace EmployeeMgmt1
             this.label2.Size = new System.Drawing.Size(275, 28);
             this.label2.TabIndex = 87;
             this.label2.Text = "Departement  Management";
-            this.label2.Click += new System.EventHandler(this.label2_Click);
+            this.label2.Click += new System.EventHandler(this.Label2_Click);
             // 
             // FditBtn 
             // 
