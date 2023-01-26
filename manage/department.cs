@@ -297,7 +297,7 @@ namespace EmployeeMgmt1
             this.textBox1.Size = new System.Drawing.Size(342, 27);
             this.textBox1.TabIndex = 89;
             // 
-            // label3
+            // label3 
             // 
             this.label3.AutoSize = true;
             this.label3.Font = new System.Drawing.Font("Segoe UI", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
