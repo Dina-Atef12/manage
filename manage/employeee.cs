@@ -506,7 +506,7 @@ namespace manage
             this.dateTimePicker1.Size = new System.Drawing.Size(277, 27);
             this.dateTimePicker1.TabIndex = 99;
             // 
-            // comboBox2
+            // comboBox2 
             // 
             this.comboBox2.FormattingEnabled = true;
             this.comboBox2.Location = new System.Drawing.Point(32, 318);
