@@ -284,7 +284,7 @@ namespace EmployeeMgmt1
             // 
             // panel2
             // 
-            this.panel2.BackColor = System.Drawing.Color.Teal;
+            this.panel2.BackColor = System.Drawing.Color.Teal; 
             this.panel2.Location = new System.Drawing.Point(39, 922);
             this.panel2.Name = "panel2";
             this.panel2.Size = new System.Drawing.Size(1359, 42);
